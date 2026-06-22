@@ -148,7 +148,7 @@ Python-Mastery-Notes-Practice-Projects/
 
 ## 🛠️ Technologies Used
 
-* Python 3.x
+* Python 3.14.6
 * VS Code
 * Git & GitHub
 

@@ -1,0 +1,162 @@
+01. INTRODUCTION TO PYTHON
+
+What is Python?
+---------------
+Python is a simple and easy-to-learn programming language. It helps us give instructions to a computer so it can perform tasks.
+
+Python is one of the most popular programming languages because its syntax is easy to read and understand.
+
+Python is used in:
+- Web Development
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Data Science
+- Automation
+- Game Development
+- Software Development
+
+Example:
+print("Hello, World!")
+
+Output:
+Hello, World!
+
+
+Who Developed Python?
+---------------------
+Python was created by Guido van Rossum, a programmer from the Netherlands.
+
+He started working on Python in the late 1980s, and the first version was released in 1991.
+
+Because he created Python, he is known as the "Father of Python".
+
+Quick Facts:
+- Creator: Guido van Rossum
+- First Release: 1991
+- Language Type: High-Level Programming Language
+- Maintained By: Python Software Foundation (PSF)
+
+
+Features of Python
+------------------
+
+1. Easy to Learn
+Python uses simple English-like syntax, making it beginner-friendly.
+
+2. Easy to Read
+Python code is clean and easy to understand.
+
+3. Free and Open Source
+Anyone can download and use Python for free.
+
+4. Platform Independent
+Python programs can run on Windows, macOS, and Linux.
+
+5. Large Community Support
+Millions of developers use Python and share helpful resources.
+
+6. Versatile Language
+Python can be used in many fields such as AI, web development, automation, and data science.
+
+
+Installing Python
+-----------------
+
+Step 1: Download Python
+Visit the official website:
+https://www.python.org/downloads/
+
+Step 2: Install Python
+- Download the latest version.
+- Run the installer.
+- Select "Add Python to PATH".
+- Click "Install Now".
+
+Step 3: Check Installation
+
+Command:
+python --version
+
+Example Output:
+Python 3.13.5
+
+
+Running Python Programs
+-----------------------
+
+Method 1: Python Interpreter
+
+Open Terminal or Command Prompt and type:
+
+python
+
+Then write:
+
+print("Hello Python")
+
+Output:
+Hello Python
+
+
+Method 2: Using VS Code
+
+Create a file named:
+hello.py
+
+Write:
+
+print("Welcome to Python!")
+
+Run:
+
+python hello.py
+
+Output:
+Welcome to Python!
+
+
+Key Points
+----------
+
+✓ Python is simple and beginner-friendly.
+✓ Python was created by Guido van Rossum.
+✓ Python was first released in 1991.
+✓ Python is free and open source.
+✓ Python is widely used in AI, ML, Web Development, and Automation.
+
+
+Practice Questions
+------------------
+
+1. What is Python?
+2. Who developed Python?
+3. When was Python first released?
+4. Name any three uses of Python.
+5. Why is Python easy to learn?
+
+Coding Practice:
+
+print("My name is Deepu")
+
+print("I am learning Python")
+
+print("Python is fun!")
+
+
+Interview Questions
+-------------------
+
+Q1. What is Python?
+Python is a high-level, easy-to-learn programming language used for developing software, websites, AI applications, and automation tools.
+
+Q2. Who is the creator of Python?
+Guido van Rossum created Python.
+
+Q3. Why is Python popular?
+Python is popular because it is easy to learn, easy to read, and can be used in many different fields.
+
+Q4. Is Python free?
+Yes, Python is completely free and open source.
+
+Q5. What are the main uses of Python?
+Python is used in web development, artificial intelligence, machine learning, data science, and automation.
